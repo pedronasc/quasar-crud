@@ -29,5 +29,8 @@ yarn-error.log*
 *.njsproj
 *.sln
 
+# Visual Studio Code
+.vscode
+
 # local .env files
 .env.local*
